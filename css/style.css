@@ -1,0 +1,64 @@
+/*Code navbar CSS*/
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    color: white;
+    
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    
+}
+nav {
+    background-color: #373738;
+    width: 73%;
+    padding: 1%;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+.logo {
+    text-align: left;
+}
+
+/*Code hero image CSS*/
+.heroImg {
+    height: 300px;
+    padding-top: 50px;
+    float:left;
+}
+
+img {
+    width: 100px;;
+    height:100px;
+
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+/*Code footer CSS*/
+footer {
+    float: left;
+    background-color: #373738;
+    width: 73%;
+    padding: 1%;
+
+    /* INCOMPLETE step 1b: Use padding to center your <ul> and <li> elements*/
+}
+
+/*I gave footer ul class footerList 
+to address Step 2 of Code footer CSS Homework, 
+but is their an easier way?*/
+
+footer > ul {
+    display: inline-block;
+    vertical-align: top;
+   
+    /* INCOMPLETE step 2C:Use padding to center the text inside of our <li> elements.*/
+}
