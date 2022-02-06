@@ -1,0 +1,59 @@
+
+/*Stylize the Header*/
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    color: white;
+    
+}
+
+nav {
+    background-color: #373738;
+    width: 100%;
+    padding: 0%;
+    
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+/*Stylize the Section with Aside*/
+aside {
+    width: 30%;
+    float: left;
+    background-color: lightgray;
+    padding-bottom: 10px;
+    display: grid;
+}
+
+.rightSide {
+    width:70%;
+    float: left;
+}
+
+.aboutMe {
+    padding-top: 10px;
+    width: 50%;
+    height:50%;
+
+}
+
+.content-Left {
+    width: 100%;
+    text-align: center;
+}
+
+/*Stylize the content*/
+
+
+/*Stylize the Footer*/
+footer {
+    background-color: #373738;
+    width: 100%;
+    padding: 0%;
+}
+
